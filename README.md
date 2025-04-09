@@ -1,3 +1,4 @@
+
 #demo Project
 this is the second line where should he will be filled
 This is for to push code created in the local repository to global respository. with this line we are ahead of the global repository.
@@ -15,3 +16,7 @@ Now jus pulling the data from the file
 
 ## Now i am in branch let see how it effect the changes.
 - TO my understanding even if i was in the separate branch the files in the branch can be acceced by me. 
+
+### secondbranch
+- Took a branch locally, then made changes locally, now want see the changes in the remote
+
