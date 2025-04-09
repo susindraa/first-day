@@ -9,4 +9,9 @@ No changes in the global repository, now global is head of the local lets see wh
 # By this line we will be in conflict with glboal repository
 
 
-Now jus pulling the data from the file 
+Now jus pulling the data from the file
+
+
+
+## Now i am in branch let see how it effect the changes.
+- TO my understanding even if i was in the separate branch the files in the branch can be acceced by me. 
