@@ -20,3 +20,5 @@ Now jus pulling the data from the file
 ### secondbranch
 - Took a branch locally, then made changes locally, now want see the changes in the remote
 
+- I am resetting the changes how to do it.
+
